@@ -1,12 +1,11 @@
-
-
-class Dog 
+class Dog
 end
 
-fido = Dog.new 
-
+fido = Dog.new
+fido
 
 snoopy = Dog.new
+snoopy
 
-lassie =  Dog.new 
-
+lassie = Dog.new
+lassie
